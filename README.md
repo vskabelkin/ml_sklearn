@@ -1,1 +1,1 @@
-# example of machine learning problems
+# examples of machine learning problems
